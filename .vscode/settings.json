@@ -1,0 +1,10 @@
+{
+  "C_Cpp.errorSquiggles": "disabled",
+  "editor.formatOnSave": false,
+  "files.associations": {
+    "_os_mode.h": "c",
+    "_remap.h": "c",
+    "_rgb.h": "c",
+    "_window_switch.h": "c"
+  }
+}
